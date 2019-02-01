@@ -1,0 +1,180 @@
+h1{
+	color:red;
+	padding: 1em;
+	border: 1px solid red;
+	margin: 0 auto;
+	/*text-shadow:-4px -4px 4px cyan;*/
+}
+
+.top-ruler{
+	
+	border:5px solid #33d6ff;
+	
+}
+IMG{
+	height:10%;
+	width:10%;
+}
+
+.head{
+	font-family: Arial;
+	font-size: 200%;
+}
+
+.banana{
+	
+}
+
+
+
+top{
+	
+	position:relative;
+	top:10px;
+	left:50px;
+	padding:1em;
+}
+#topbar{
+	padding:3em;
+	background-color:#008fb3;
+	position:relative;
+	right:50px;
+}
+top [href]:hover{
+	background-color:white;
+}
+top [href]:focus{
+	background-color:white;
+}
+.top_link{
+	font-size:200% ;
+	position:relative;
+	padding:12px;
+	border:3px solid black;
+}
+
+#homepage{
+	position:relative;
+	left:50px;
+	top:-75px;
+}
+
+#page2{
+	position:relative;
+	left:100px;
+	top:-75px;
+}
+#page3{
+	position:relative;
+	left:150px;
+	top:-75px;
+}
+
+#page4{
+	position:relative;
+	left:200px;
+	top:-75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--
+Last revision January 29 2019
+-->
+
+<html lang="en">
+<head>
+<title>
+Homepage
+</title>
+<meta charset="utf-8"/>
+<meta name="description" content="My first site">
+<meta name="author" content="Ben Kennard">
+<meta name="keywords" content="My first site">
+<title>Homepage</title>
+<link rel="shortcut icon" href="Images/Banana.gif">
+<link href="Styles/normalize.css" rel="stylesheet">
+<link href="Styles/main.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<!-- 100% = 16px = 1em-->
+<body>
+<h1>
+<center>Ben's Repair Services</center>
+</h1>
+<top>
+<hr id = "topbar">
+<a class ="top_link" id ="homepage"href="index.html">Homepage</a>
+<a class ="top_link" id ="page2" href="TestPage.html">Page 2</a>
+<a class ="top_link" id ="page3" href="">Page 3</a>
+<a class ="top_link" id ="page4" href="">Page 4</a>
+</top>
+<br>
+<br>
+<br>
+<p class ="head">This is the site that I am using to learn <b>html</b>
+</p>
+<!--</1><input type="checkbox" name"=Example" checked>-->
+<!--<ol> this is an ordered list 
+<li>i like cheese</li>
+<li>i like lettuce</li>
+</ol>
+-->
+<img class ="banana" src="Images/Banana.gif">
+<p>
+This is the site that will be a culmination of everything I learn about HTML.
+<br>
+</p>
+
+<script> <!-- This is a script that when the corresponding element is clicked it closes the other specified element -->
+$(".head").on("click",function(){
+	$(".banana").slideToggle();
+});
+</script>
+</body>
+</html>
